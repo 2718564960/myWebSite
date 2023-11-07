@@ -12,6 +12,9 @@ theme = "LoveIt"
   # LoveIt theme version
   version = "0.2.X"
 
+
+  default
+
 [menu]
   [[menu.main]]
     identifier = "posts"
